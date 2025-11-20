@@ -1,16 +1,15 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mujeeb Qadiri",
+    "label": "Bioinformatics Scientist",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "qadirimujeeb7@gmail.com",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://mujeebqadiri.github.io",
+    "summary": "A San Diego-born bioinformatician with expertise in single-cell rna-seq, bulk rna-seq, metabolomics, lipidomics and more.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "postalCode": "CA 92130",
+      "city": "San Diego",
       "countryCode": "US",
       "region": "California"
     },
@@ -24,13 +23,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Perrimon Lab, Department of Genetics, Harvard Medical School",
+      "position": "Bioinformatics Scientist",
+      "url": "https://perrimon.med.harvard.edu",
+      "startDate": "2024-01-01",
+      "endDate": "2025-09-30",
+      "summary": "Performed X.",
+      "highlights": ["Bioinformatics"]
     }
   ],
   "volunteer": [
