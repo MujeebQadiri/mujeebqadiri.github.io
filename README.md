@@ -1,6 +1,6 @@
 # Welcome to my Portfolio
 
-https://mujeebqadiri.github.io[https://mujeebqadiri.github.io]
+https://mujeebqadiri.github.io
 
 ## License
 
