@@ -11,7 +11,7 @@
       "city": "San Diego",
       "countryCode": "US",
       "region": "California"
-    },
+    }
   },
   "work": [
     {
@@ -123,7 +123,7 @@
       "releaseDate": "2025-07-05",
       "url": "https://www.biorxiv.org/content/10.1101/2025.07.02.662792v1",
       "summary": "This study establishes the Drosophila gut as a powerful model to investigate CF pathogenesis, genetic modifiers, and identifies Ace and Fkh as genetic modifiers. This work also suggests that enhancing cholinergic signaling may represent a viable therapeutic strategy for gastrointestinal manifestations of CF."
-    },
+    }
   ],
   "skills": [
     {
@@ -139,7 +139,7 @@
         "Docker",
         "SLURM"
       ]
-    }
+    },
     {
       "name": "Bioinformatic Data Analysis",
       "level": "Master",
@@ -170,7 +170,7 @@
       "highlights": ["Machine Learning", "Image Segmentation", "Classification"],
       "startDate": "2025-11-01",
       "endDate": "2025-12-30",
-      "url": "NULL"
+      "url": "TBA"
     }
   ]
 }
