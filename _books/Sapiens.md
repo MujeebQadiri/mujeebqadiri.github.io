@@ -7,7 +7,7 @@ olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provide
 isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: nonfiction history science philosophy anthropology
 tags: top-100
-buy_link: [https://www.amazon.com/Godfather-Deluxe-Mario-Puzo/dp/0593542592](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)
+buy_link: https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095
 started: 2025-11-02
 finished: 
 released: 2011
