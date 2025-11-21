@@ -21,7 +21,11 @@
       "startDate": "2024-01-01",
       "endDate": "2025-09-30",
       "summary": "Collaborated closely with biologists and informaticians in a fast-paced genomics research environment. Developed and optimized data analysis pipelines for large-scale datasets, including single-cell RNA-seq. Provided computational support from raw data processing to downstream biological interpretation. Designed and maintained bioinformatics tools for public use, regularly presented progress to the team, and contributed to manuscript preparation.",
-      "highlights": ["single-cell RNA sequencing", "bulk RNA sequencing", "metabolomics/lipidomics"]
+      "highlights": [
+        "single-cell RNA sequencing",
+        "bulk RNA sequencing",
+        "metabolomics/lipidomics"
+      ]
     }
   ],
   "education": [
@@ -144,11 +148,7 @@
       "name": "Bioinformatic Data Analysis",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Genetics",
-        "Transcriptomics",
-        "Metabolomics/Lipidomics"
-      ]
+      "keywords": ["Genetics", "Transcriptomics", "Metabolomics/Lipidomics"]
     }
   ],
   "languages": [
