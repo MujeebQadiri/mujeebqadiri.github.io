@@ -1,19 +1,32 @@
 ---
 layout: book-review
-title: Sapiens
-author: Yuval Noah Harari
-cover: assets/img/book_covers/Sapiens_cover.jpeg
-olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: nonfiction history science philosophy anthropology
-tags: top-100
-buy_link: https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095
+title: "Sapiens"
+authors: ["Yuval Noah Harari"]
+cover: "/assets/img/book_covers/Sapiens_cover.jpeg"
+
+# Only needed if no cover image is provided:
+# olid: "OL43499941M"
+# isbn: "7539967447"
+
+categories:
+  - nonfiction
+  - history
+  - science
+  - philosophy
+  - anthropology
+
+tags:
+  - top-100
+
+buy_link: "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095"
+
 started: 2025-11-02
-finished: 
+finished: ""
 released: 2011
+
 stars: 4
-goodreads_review: 
-status: Ongoing
+goodreads_review: ""
+status: "Ongoing"
 ---
 
 One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one—homo sapiens. What happened to the others? And what may happen to us?
