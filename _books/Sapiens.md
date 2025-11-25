@@ -26,7 +26,7 @@ released: 2011
 
 stars: 4
 goodreads_review: ""
-status: "Ongoing"
+status: "READING"
 ---
 
 One hundred thousand years ago, at least six different species of humans inhabited Earth. Yet today there is only one—homo sapiens. What happened to the others? And what may happen to us?
