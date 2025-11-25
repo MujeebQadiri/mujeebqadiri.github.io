@@ -2,11 +2,11 @@
 layout: book-review
 title: "Sapiens"
 authors: ["Yuval Noah Harari"]
-cover: "assets/img/book_covers/Sapiens_cover.jpeg"
+cover: # cover not working
 
 # Only needed if no cover image is provided:
-# olid: "OL43499941M"
-# isbn: "7539967447"
+olid: "OL26414386M"
+isbn: "0062316095"
 
 categories:
   - nonfiction
