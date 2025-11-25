@@ -2,7 +2,7 @@
 layout: book-review
 title: "Sapiens"
 authors: ["Yuval Noah Harari"]
-cover: "/assets/img/book_covers/Sapiens_cover.jpeg"
+cover: "assets/img/book_covers/Sapiens_cover.jpeg"
 
 # Only needed if no cover image is provided:
 # olid: "OL43499941M"
