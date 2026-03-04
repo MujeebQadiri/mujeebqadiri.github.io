@@ -1,10 +1,10 @@
 metadata:
-  last_updated: '2026-01-19'
+  last_updated: '2026-03-04'
 papers:
   dDUVUCcAAAAJ:2osOgNQ5qMEC:
     citations: 0
-    title: Cholinergic Signaling Modulates Intestinal Pathophysiology in a Drosophila Model of Cystic Fibrosis
-    year: '2025'
+    title: Cholinergic signaling modulates intestinal pathophysiology in a Drosophila model of cystic fibrosis
+    year: '2026'
   dDUVUCcAAAAJ:9yKSN-GCB0IC:
     citations: 6
     title: "FlyRNAi. org 2025 update\u2014expanded resources for new technologies and species"
@@ -14,12 +14,12 @@ papers:
     title: 'TF2TG: an online resource mining the potential gene targets of transcription factors in Drosophila'
     year: '2026'
   dDUVUCcAAAAJ:Tyk-4Ss8FVUC:
-    citations: 0
+    citations: 1
     title: In-situ glial cell-surface proteomics identifies pro-longevity factors in Drosophila
     year: '2025'
   dDUVUCcAAAAJ:UeHWp8X0CEIC:
-    citations: 1
-    title: 'FlyPhoneDB2: A Computational Framework for Analyzing Cell-Cell Communication in Drosophila scRNA-seq Data Integrating AlphaFold-Multimer Predictions'
+    citations: 2
+    title: 'FlyPhoneDB2: A computational framework for analyzing cell-cell communication in Drosophila scRNA-seq data integrating AlphaFold-multimer predictions'
     year: '2025'
   dDUVUCcAAAAJ:d1gkVwhDpl0C:
     citations: 0
@@ -34,7 +34,7 @@ papers:
     title: Higher resolution pooled genome-wide CRISPR knockout screening in Drosophila cells using integration and anti-CRISPR (IntAC)
     year: '2025'
   dDUVUCcAAAAJ:u5HHmVD_uO8C:
-    citations: 15
+    citations: 20
     title: Hepatic gluconeogenesis and PDK3 upregulation drive cancer cachexia in flies and mice
     year: '2025'
   dDUVUCcAAAAJ:zYLM7Y9cAGgC:
