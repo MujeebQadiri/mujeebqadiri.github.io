@@ -42,6 +42,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Sapiens/";
+            },},{id: "projects-medicare-part-d-drug-spending-dashboard",
+          title: 'Medicare Part D Drug Spending Dashboard',
+          description: "Interactive dashboard visualizing U.S. government Medicare Part D prescription drug spending (2019–2023), built with Streamlit, Altair, and Plotly.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/medicare_part_d/";
             },},{
         id: 'social-email',
         title: 'email',
