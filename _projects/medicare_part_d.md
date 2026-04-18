@@ -45,12 +45,14 @@ The main analytical view. Use the sidebar to select a drug, adjust filters, and 
 | **5-Year CAGR vs. 2023 Spending Quadrant** | Scatter plot dividing drugs into four quadrants: high/low spending × high/low growth |
 | **Top N Drugs Ranking** | Horizontal bar chart ranked by spending, claims, or beneficiaries |
 
+
 ### 🧬 Browse by Therapy
 
 Explore drugs grouped by therapeutic category — useful for understanding which disease areas drive the most spending.
 
 - **ATC (Mechanism)** — groups drugs by how they work in the body (e.g., cardiovascular, nervous system)
 - **MeSH (Disease / Condition)** — groups drugs by the condition they treat (e.g., diabetes, cancer)
+
 
 ### 💊 Drug Information
 
