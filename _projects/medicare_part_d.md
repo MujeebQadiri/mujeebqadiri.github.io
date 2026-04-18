@@ -12,7 +12,7 @@ An interactive, multi-page dashboard providing a transparent look at how the U.S
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img src="/assets/img/project_medicare_screenshot.jpg"
+        <img src="assets/img/project_medicare_screenshot.jpg"
              alt="Medicare Part D Dashboard demo"
              class="img-fluid rounded z-depth-1" />
     </div>
