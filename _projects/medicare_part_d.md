@@ -2,7 +2,7 @@
 layout: page
 title: Medicare Part D Drug Spending Dashboard
 description: Interactive dashboard visualizing U.S. government Medicare Part D prescription drug spending (2019–2023), built with Streamlit, Altair, and Plotly.
-img: /Users/mujeebqadiri/Documents/Sites/portfolio_git/mujeebqadiri.github.io/assets/img/project_medicare_screenshot.png
+img: assets/img/project_medicare_screenshot.png
 importance: 1
 category: work
 github: https://github.com/mujeebqadiri/medicare_part_d_spending
@@ -12,7 +12,7 @@ An interactive, multi-page dashboard providing a transparent look at how the U.S
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img src="/Users/mujeebqadiri/Documents/Sites/portfolio_git/mujeebqadiri.github.io/assets/img/project_medicare_screenshot.png"
+        <img src="assets/img/project_medicare_screenshot.png"
              alt="Medicare Part D Dashboard demo"
              class="img-fluid rounded z-depth-1" />
     </div>
