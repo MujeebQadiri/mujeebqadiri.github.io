@@ -53,7 +53,6 @@ Explore drugs grouped by therapeutic category — useful for understanding which
 - **ATC (Mechanism)** — groups drugs by how they work in the body (e.g., cardiovascular, nervous system)
 - **MeSH (Disease / Condition)** — groups drugs by the condition they treat (e.g., diabetes, cancer)
 
-
 ### 💊 Drug Information
 
 A searchable reference of every drug in the dataset, showing brand name, generic name, and a plain-language description. Search by drug name or condition.
@@ -70,12 +69,6 @@ A searchable reference of every drug in the dataset, showing brand name, generic
 
 ---
 
-## Running Locally
+## Accessing the Dashboard
 
-```bash
-# Install dependencies
-pip install -e .
-
-# Launch the app
-streamlit run dashboard/app.py
-```
+[https://medicare-part-d-spending.streamlit.app](https://medicare-part-d-spending.streamlit.app)
