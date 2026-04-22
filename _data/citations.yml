@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-22'
 papers:
   dDUVUCcAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: "FlyRNAi. org 2025 update\u2014expanded resources for new technologies and species"
     year: '2025'
   dDUVUCcAAAAJ:IjCSPb-OGe4C:
-    citations: 3
+    citations: 4
     title: 'TF2TG: an online resource mining the potential gene targets of transcription factors in Drosophila'
     year: '2026'
   dDUVUCcAAAAJ:Tyk-4Ss8FVUC:
@@ -39,5 +39,5 @@ papers:
     year: '2025'
   dDUVUCcAAAAJ:zYLM7Y9cAGgC:
     citations: 0
-    title: Renal Coenzyme A (CoA) Production Fuels Stem Cell Proliferation and Tumor Growth
-    year: '2025'
+    title: Renal coenzyme A (CoA) production from VB5 fuels stem cell proliferation and tumor growth
+    year: '2026'
