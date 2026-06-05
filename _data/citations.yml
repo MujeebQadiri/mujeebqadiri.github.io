@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-06-05'
 papers:
   dDUVUCcAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,11 +14,11 @@ papers:
     title: 'TF2TG: an online resource mining the potential gene targets of transcription factors in Drosophila'
     year: '2026'
   dDUVUCcAAAAJ:Tyk-4Ss8FVUC:
-    citations: 1
+    citations: 2
     title: In-situ glial cell-surface proteomics identifies pro-longevity factors in Drosophila
     year: '2025'
   dDUVUCcAAAAJ:UeHWp8X0CEIC:
-    citations: 4
+    citations: 5
     title: 'FlyPhoneDB2: A computational framework for analyzing cell-cell communication in Drosophila scRNA-seq data integrating AlphaFold-multimer predictions'
     year: '2025'
   dDUVUCcAAAAJ:W7OEmFMy1HYC:
@@ -34,11 +34,11 @@ papers:
     title: The epigenetic factor Zrf1 regulates intestinal stem cell proliferation during midgut regeneration
     year: '2025'
   dDUVUCcAAAAJ:u-x6o8ySG0sC:
-    citations: 8
+    citations: 10
     title: Higher resolution pooled genome-wide CRISPR knockout screening in Drosophila cells using integration and anti-CRISPR (IntAC)
     year: '2025'
   dDUVUCcAAAAJ:u5HHmVD_uO8C:
-    citations: 25
+    citations: 26
     title: Hepatic gluconeogenesis and PDK3 upregulation drive cancer cachexia in flies and mice
     year: '2025'
   dDUVUCcAAAAJ:zYLM7Y9cAGgC:
