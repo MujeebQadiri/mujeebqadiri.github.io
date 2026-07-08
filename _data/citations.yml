@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-08'
 papers:
   dDUVUCcAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Cholinergic signaling modulates intestinal pathophysiology in a Drosophila model of cystic fibrosis
     year: '2026'
   dDUVUCcAAAAJ:9yKSN-GCB0IC:
-    citations: 8
+    citations: 9
     title: "FlyRNAi. org 2025 update\u2014expanded resources for new technologies and species"
     year: '2025'
   dDUVUCcAAAAJ:IjCSPb-OGe4C:
@@ -25,6 +25,10 @@ papers:
     citations: 0
     title: Conserved principles of central carbon partitioning in Hippo-Yorkie-driven Drosophila gut tumors
     year: '2026'
+  dDUVUCcAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: Rapamycin Mitigates a Sex-biased Convergent Aging Trajectory
+    year: '2026'
   dDUVUCcAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: Protein folding stress transcriptionally reprograms muscle metabolism
@@ -34,11 +38,11 @@ papers:
     title: The epigenetic factor Zrf1 regulates intestinal stem cell proliferation during midgut regeneration
     year: '2025'
   dDUVUCcAAAAJ:u-x6o8ySG0sC:
-    citations: 11
+    citations: 13
     title: Higher resolution pooled genome-wide CRISPR knockout screening in Drosophila cells using integration and anti-CRISPR (IntAC)
     year: '2025'
   dDUVUCcAAAAJ:u5HHmVD_uO8C:
-    citations: 26
+    citations: 30
     title: Hepatic gluconeogenesis and PDK3 upregulation drive cancer cachexia in flies and mice
     year: '2025'
   dDUVUCcAAAAJ:zYLM7Y9cAGgC:
