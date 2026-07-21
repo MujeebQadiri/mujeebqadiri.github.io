@@ -25,4 +25,6 @@ latest_posts:
   limit: 3
 ---
 
-I graduated with a B.S in biochemistry and a minor in general biology from the University of California, San Diego in 2020. I later obtained an MSc in bioinformatics at Northeastern University in 2024. I have prior experience as a Research Assistant II in the Emerling Lab at the Sanford Burnham Prebys Medical Discovery Institute. I previously worked as a Bioinformatics Scientist in the Perrimon Lab in the Department of Genetics at Harvard Medical School.
+I graduated with a B.S in biochemistry and a minor in general biology from the University of California, San Diego in 2020. I later obtained an MSc in bioinformatics at Northeastern University in 2024. I have prior experience as a Research Assistant II in the Emerling Lab at the Sanford Burnham Prebys Medical Discovery Institute. I previously worked as a Bioinformatics Scientist in the Perrimon Lab in the Department of Genetics at Harvard Medical School. 
+
+Currently, I am a NGS Bioinformatics Support Specialist at Eli Lilly supporting discovery through data analysis, pipeline development, and scientific user support.
